@@ -52,7 +52,7 @@ const Pag = () => {
      </div>
 
     <br />
-    <div style={{width:'25%', height:'500px',margin:"auto"}} >   
+    <div style={{width:'100%', height:'500px',margin:"auto"}} >   
      
     <ReactPlayer url={require('../july.mp4')}
     width='100%'
