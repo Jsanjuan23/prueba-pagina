@@ -18,7 +18,7 @@ const Pag = () => {
 
 
   return (
-    <div>
+<div>
   <h1 class="text-primary" align="center">HOLA, MI BONITA <img src={logo} alt="" /></h1>
   <br />
   <br />
@@ -32,17 +32,25 @@ const Pag = () => {
 
     <div class="form-group col-md-6">
         <p align="center">
-           Tanto, que has ocasiona volverme tan cursi; cosa donde no lo era antes.
+           Tanto, que has ocasionado que me convierta en un man cursi; cosa donde no lo era antes y que no era muy de mi agrado.
         </p>
     </div >
-    <br />
-    <br />
-    <br />  
-     <div style={{margin:"auto"}}>
-         <p align="center">Tocame aqui! JAJAJAJ</p>
-         <button class="btn btn-secondary btn-lg" type="sumit" onClick={(mostrar)}>Esta veeeee</button>
-     </div>
+    
+  
     </div>
+
+    
+    <p align="center">
+           y mira hasta donde ha llegado el coco JAJAJAJA
+        </p>
+
+   
+        <p align="center">Tocame aqui! JAJAJAJ</p>
+    <div class="card text-center">
+      
+         <button class="btn btn-secondary btn-lg" type="sumit" onClick={(mostrar)} >Esta veeeee</button>
+     </div>
+
     <br />
     <div style={{width:'25%', height:'500px',margin:"auto"}} >   
      
