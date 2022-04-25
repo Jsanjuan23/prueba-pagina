@@ -56,7 +56,7 @@ const Pag = () => {
     </div>
      <br />
     <div class="p-3 mb-2 bg-info">
-          <h1 class="text-white" align="center">TE ESPERO EN COLOMBIA"</h1>
+          <h1 class="text-white" align="center">TE ESPERO EN COLOMBIA</h1>
         </div>
 
   </div>
